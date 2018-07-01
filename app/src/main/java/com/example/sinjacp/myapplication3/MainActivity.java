@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     protected void testda(){
 
     }
+    protected void testda2(){
+
+    }
 }
